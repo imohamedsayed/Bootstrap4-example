@@ -1,0 +1,14 @@
+:root {
+  --main--color: #8f61db;
+}
+.cousrses {
+  height: 50px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.cousrses .dropdown-menu .dropdown-item a {
+  border: 1px solid black;
+}
+.card {
+  padding: 0 !important;
+}
